@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/SVM/index.py" description="for i in data:&#10;    for ix in data[i]:&#10;        if i..." line="79" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="175285f0-2430-44dc-904e-7f3a8f0638a8" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SVM/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SVM/index2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cluster/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cluster/mainIndex.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../WebApplication/templates/home.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../index.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../numpy/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../numpy/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../numpy/1.KNN/index.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SVM/index2.py" beforeDir="false" afterPath="$PROJECT_DIR$/SVM/index2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +27,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Regression/index.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="42" selection-start-line="19" selection-start-column="27" selection-end-line="42" />
+            <state relative-caret-position="343">
+              <caret line="19" column="10" selection-start-line="19" selection-end-line="20" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
@@ -35,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Classification/index.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="931">
-              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="19">
+              <caret line="5" column="31" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="31" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -47,20 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SVM/index.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SVM/index2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="30" column="10" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="32" selection-end-column="21" />
+            <state relative-caret-position="380">
+              <caret line="86" column="30" lean-forward="true" selection-start-line="86" selection-end-line="87" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -69,10 +61,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification/breast-cancer-wisconsin.data.txt">
+        <entry file="file://$PROJECT_DIR$/SVM/index2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="25" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="25" />
+            <state relative-caret-position="855">
+              <caret line="48" column="19" lean-forward="true" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cluster/index.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="54" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Cluster/mainIndex.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -89,6 +108,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>preprocessing</find>
+      <find>svm_sgd_plot</find>
       <find>5</find>
     </findStrings>
   </component>
@@ -105,6 +125,8 @@
         <option value="$PROJECT_DIR$/Classification/index.py" />
         <option value="$PROJECT_DIR$/SVM/index.py" />
         <option value="$PROJECT_DIR$/SVM/index2.py" />
+        <option value="$PROJECT_DIR$/Cluster/index.py" />
+        <option value="$PROJECT_DIR$/Cluster/mainIndex.py" />
       </list>
     </option>
   </component>
@@ -120,6 +142,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,16 +153,16 @@
             <path>
               <item name="MACHINE LEARNING FROM SCRATCH WITH SENTDEX" type="b2602c69:ProjectViewProjectNode" />
               <item name="MACHINE LEARNING FROM SCRATCH WITH SENTDEX" type="462c0819:PsiDirectoryNode" />
-              <item name="SVM" type="462c0819:PsiDirectoryNode" />
+              <item name="Cluster" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
@@ -159,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.index2">
+  <component name="RunManager" selected="Python.mainIndex">
     <configuration name="index (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MACHINE LEARNING FROM SCRATCH WITH SENTDEX" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,7 +225,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="index (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MACHINE LEARNING FROM SCRATCH WITH SENTDEX" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,11 +233,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regression" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cluster" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regression/index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cluster/index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,7 +267,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quandl" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mainIndex" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MACHINE LEARNING FROM SCRATCH WITH SENTDEX" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,11 +275,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cluster" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Applications\Geek Projects\Python\MACHINE LEARNING FROM SCRATCH WITH SENTDEX\p1 Data Science\index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cluster/mainIndex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,11 +290,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mainIndex" />
+        <item itemvalue="Python.index (3)" />
         <item itemvalue="Python.index2" />
         <item itemvalue="Python.index (2)" />
         <item itemvalue="Python.index (1)" />
-        <item itemvalue="Python.index" />
-        <item itemvalue="Python.quandl" />
       </list>
     </recent_temporary>
   </component>
@@ -302,6 +325,25 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.20058565" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.329429" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.329429" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16060807" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.121522695" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23279649" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970717" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.20058565" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
@@ -309,7 +351,18 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Cluster/index.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pip-selfcheck.json">
@@ -339,37 +392,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Regression/index.py">
+    <entry file="file://$PROJECT_DIR$/Classification/breast-cancer-wisconsin.data.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="42" selection-start-line="19" selection-start-column="27" selection-end-line="42" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-836">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Classification/index.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="931">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="19">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="31" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/breast-cancer-wisconsin.data.txt">
+    <entry file="file://$PROJECT_DIR$/Regression/index.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="25" />
+        <state relative-caret-position="343">
+          <caret line="19" column="10" selection-start-line="19" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SVM/index.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="380">
+          <caret line="86" column="30" lean-forward="true" selection-start-line="86" selection-end-line="87" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -378,8 +431,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SVM/index2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="30" column="10" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="32" selection-end-column="21" />
+        <state relative-caret-position="855">
+          <caret line="48" column="19" lean-forward="true" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cluster/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="54" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cluster/mainIndex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
