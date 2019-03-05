@@ -20,7 +20,7 @@ class KMeans:
             for d in data:
                 distance= [np.linalg.norm(d- centroid) for centroid in self.centroids]
                 self.classifications[distance.index(min(distance))].append(d)
-            for cls in self.classifications:
+            for cls in range(len(self.centroids)):
                 self.centroids[cls] = np.average(self.classifications[cls], axis=0)
         print(self.classifications)
         prev_centroids = dict(self.centroids)
