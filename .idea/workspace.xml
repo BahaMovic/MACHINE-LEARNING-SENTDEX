@@ -6,16 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="175285f0-2430-44dc-904e-7f3a8f0638a8" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MeanShift/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeuralNetwork/index.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../WebApplication/templates/home.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../index.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../numpy/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../numpy/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../numpy/1.KNN/index.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cluster/mainIndex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cluster/mainIndex.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,11 +94,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MeanShift/index.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="31" lean-forward="true" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+            <state relative-caret-position="304">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NeuralNetwork/index.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -138,6 +147,7 @@
         <option value="$PROJECT_DIR$/Cluster/index.py" />
         <option value="$PROJECT_DIR$/Cluster/mainIndex.py" />
         <option value="$PROJECT_DIR$/MeanShift/index.py" />
+        <option value="$PROJECT_DIR$/NeuralNetwork/index.py" />
       </list>
     </option>
   </component>
@@ -153,7 +163,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,12 +173,13 @@
             <path>
               <item name="MACHINE LEARNING FROM SCRATCH WITH SENTDEX" type="b2602c69:ProjectViewProjectNode" />
               <item name="MACHINE LEARNING FROM SCRATCH WITH SENTDEX" type="462c0819:PsiDirectoryNode" />
-              <item name="MeanShift" type="462c0819:PsiDirectoryNode" />
+              <item name="NeuralNetwork" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,8 +203,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.index">
-    <configuration name="index (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.index (1)">
+    <configuration name="index (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MACHINE LEARNING FROM SCRATCH WITH SENTDEX" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,11 +212,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SVM" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NeuralNetwork" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SVM/index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NeuralNetwork/index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,11 +311,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.index" />
+        <item itemvalue="Python.index (1)" />
         <item itemvalue="Python.mainIndex" />
+        <item itemvalue="Python.index" />
         <item itemvalue="Python.index (3)" />
         <item itemvalue="Python.index2" />
-        <item itemvalue="Python.index (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -331,13 +341,13 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.121522695" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23279649" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4990086" visible="true" weight="0.4216691" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39970717" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.20058565" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5009914" side_tool="true" visible="true" weight="0.4216691" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4990086" weight="0.20058565" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.329429" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.329429" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -477,8 +487,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MeanShift/index.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="31" lean-forward="true" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NeuralNetwork/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
         </state>
       </provider>
     </entry>
