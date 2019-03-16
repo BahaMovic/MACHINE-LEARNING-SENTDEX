@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 from matplotlib import style
 import math
 style.use('fivethirtyeight')
-xs = np.array([1,2,3,4,5,6])
-ys = np.array([5,4,4,3,2,500])
+ys = np.array([1,2,3,4,5,6])
+xs = np.array([5,4,4,3,2,1])
 
 '''
     mean(x)*mean(y) - mean(x*y)
